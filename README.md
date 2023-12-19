@@ -1,2 +1,7 @@
 # Genetic-algorithm-
 This project was part of the SCC361 the AI module and explores the use of genetic algorithm for 2d path-finding
+
+![image](https://github.com/BAronHW/Genetic-algorithm-/assets/63551617/6301b0d5-d60f-4aa2-8569-a5d668862a3f)
+![image](https://github.com/BAronHW/Genetic-algorithm-/assets/63551617/8c0bf974-d288-4d45-a399-9b16d9d068e4)
+
+
